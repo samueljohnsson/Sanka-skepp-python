@@ -129,17 +129,6 @@ for i in range(1): # generera 1 båt 4 lång
     skapa_båt(4)
 
 
-
-
-# skriv ut facit för Calles skull
-'''
-print("Facit: ")
-skriv_ut(brädaFacit) 
-print()
-'''
-
-
-
 # själva spelet
 antal_skott = 0 # räknar antal skott skjutna
 träffar = 0 # räknar antal träffar
